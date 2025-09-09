@@ -1,0 +1,37 @@
+id, Thème, Genre, Artiste, Nb_écoutes
+1, Happy, Pop, Dua Lipa, 1250000
+2, Happy, Dance, Calvin Harris, 980000
+3, Happy, Reggae, Bob Marley, 750000
+4, Happy, Funk, Bruno Mars, 1100000
+5, Sad, Blues, B.B. King, 450000
+6, Sad, Indie, Bon Iver, 620000
+7, Sad, Alternative, Radiohead, 890000
+8, Sad, Acoustic, Damien Rice, 320000
+9, Energetic, Rock, Queen, 1800000
+10, Energetic, Electronic, Skrillex, 940000
+11, Energetic, Hip-Hop, Eminem, 1650000
+12, Energetic, Punk, Green Day, 780000
+13, Relaxed, Jazz, Miles Davis, 380000
+14, Relaxed, Lo-Fi, Nujabes, 560000
+15, Relaxed, Ambient, Brian Eno, 290000
+16, Relaxed, Acoustic, Jack Johnson, 670000
+17, Romantic, R&B, John Legend, 850000
+18, Romantic, Soul, Alicia Keys, 720000
+19, Romantic, Pop, Ed Sheeran, 1450000
+20, Romantic, Indie, The National, 420000
+21, Angry, Metal, Metallica, 1200000
+22, Angry, Punk, The Clash, 650000
+23, Angry, Rock, Rage Against, 980000
+24, Angry, Hip-Hop, Kendrick Lamar, 1350000
+25, Focus, Classical, Ludovico Einaudi, 480000
+26, Focus, Instrumental, Max Richter, 340000
+27, Focus, Electronic, Tycho, 520000
+28, Focus, Lo-Fi, ChilledCow, 680000
+29, Party, Hip-Hop, Drake, 2100000
+30, Party, Dance, David Guetta, 1150000
+31, Party, Pop, The Weeknd, 1750000
+32, Party, Reggaeton, Bad Bunny, 1900000
+33, Nostalgic, Indie, Arctic Monkeys, 890000
+34, Nostalgic, Alternative, Nirvana, 1300000
+35, Nostalgic, Blues, Eric Clapton, 560000
+36, Nostalgic, Folk, Johnny Cash, 720000
